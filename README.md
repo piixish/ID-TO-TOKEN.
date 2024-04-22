@@ -1,4 +1,4 @@
-# ancien bot bl de l'internat.
+# tool pour avoir la moitier du token de quelqun : en node.js
 
 ## Démarrage du Bot
 
